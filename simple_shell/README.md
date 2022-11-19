@@ -1,1 +1,1 @@
-Godfirst Asuoma and Ugoh Jovita
+alx simple_shell Team project
